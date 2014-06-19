@@ -1,0 +1,25 @@
+<?php
+define('ERR','Something went wrong!');
+define('ERR1','Please enter e-mail and password');
+define('ERR2','Please enter e-mail,password and confirm password.');
+define('ERR3','Wrong Validation');
+define('ERR4','The email you entered does not belong to any account.Make sure that it is typed correctly.');
+define('ERR5','Wrong email or phone number');
+define('ERR6','E-mail is not valid');
+define('ERR7','String is not valid');
+define('ERR8','Int is not valid');
+define('ERR9','mark at list one checkbox');
+define('ERR10','Please enter your first name');
+define('ERR11','Please enter your last name');
+define('ERR12','Please select all fields');
+define('ERR13','Please enter all information');
+define('ERR14','Please add how to apply information');
+define('ERR15','Please enter additional email');
+define('ERR16','Please enter additional phone');
+define('ERR17','Please enter email');
+define('ERR18','Please add contact');
+define('ERR19','Email address already exists in system. Please choose another email.');
+define('ERR20','Email address already exists in system. Please choose another additional email.');
+define('ERR21','Phone number already exists in system. Please choose another phone number.');
+define('ERR22','Phone number already exists in system. Please choose another additional phone number.');
+define('ERR23','You need to register first');
